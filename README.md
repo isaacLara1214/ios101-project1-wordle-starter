@@ -12,11 +12,11 @@ The following **required** functionality is completed:
 
 - [x] App displays a keyboard on the screen
 - [x] When tapping on the keyboard, a letter is shown or deleted (letter selected)
-- [ ] User can play a basic version of Wordle, with different goal words each time
+- [X] User can play a basic version of Wordle, with different goal words each time
 
 The following **optional** features are implemented:
 
-- [ ] Improve and customize the user interface by adding a launchscreen and app icon
+- [X] Improve and customize the user interface by adding a launchscreen and app icon
 - [x] Run the app on a device rather than in the simulator
 
 The following **additional** features are implemented:
