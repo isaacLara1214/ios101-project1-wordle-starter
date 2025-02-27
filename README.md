@@ -4,7 +4,7 @@ Submitted by: **Isaac Lara**
 
 **Wordle** is a game app where you guess a 5 letter word by typing in a word one letter at a time. every time you type a word it shows yellow over a letter that is in the mystery word but in a different spot and green over a letter that is in the correct spot. the user has 7 tries to guess the word. 
 
-Time spent: **X** hours spent in total
+Time spent: **6** hours spent in total
 
 ## Required Features
 
@@ -25,14 +25,19 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
-
-[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
+<div>
+    <a href="https://www.loom.com/share/f0c5f56c11bd40a8a96cb5bda530a17e">
+    </a>
+    <a href="https://www.loom.com/share/f0c5f56c11bd40a8a96cb5bda530a17e">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/f0c5f56c11bd40a8a96cb5bda530a17e-c81bbfc127d85994-full-play.gif">
+    </a>
+  </div>
 
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Some challenges i had while doing this project was understanding how closures worked in an actual project. 
+Implementing the closure didSelectString across the project did not click in my head how it interacted with the rest of the project to create the keyboard icons.
 
 ## License
 
