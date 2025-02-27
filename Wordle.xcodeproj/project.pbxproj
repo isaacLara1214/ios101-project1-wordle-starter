@@ -25,6 +25,7 @@
 		99CF2AA829B0168700B4973F /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = 99CF2AA729B0168700B4973F /* Constants.swift */; };
 		99CF2AAA29B0172800B4973F /* BoardController+Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 99CF2AA929B0172800B4973F /* BoardController+Extensions.swift */; };
 		99CF2AAC29B0198D00B4973F /* ViewController+Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 99CF2AAB29B0198D00B4973F /* ViewController+Extensions.swift */; };
+		F4AB96372D7041D40025DB25 /* w-icon.png in Resources */ = {isa = PBXBuildFile; fileRef = F4AB96362D7041D40025DB25 /* w-icon.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -67,6 +68,7 @@
 		99CF2AA729B0168700B4973F /* Constants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Constants.swift; sourceTree = "<group>"; };
 		99CF2AA929B0172800B4973F /* BoardController+Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "BoardController+Extensions.swift"; sourceTree = "<group>"; };
 		99CF2AAB29B0198D00B4973F /* ViewController+Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "ViewController+Extensions.swift"; sourceTree = "<group>"; };
+		F4AB96362D7041D40025DB25 /* w-icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "w-icon.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -153,6 +155,7 @@
 				996B84B2299990AA00133037 /* LaunchScreen.storyboard */,
 				996B84B0299990AA00133037 /* Assets.xcassets */,
 				996B84AD299990A900133037 /* Main.storyboard */,
+				F4AB96362D7041D40025DB25 /* w-icon.png */,
 				996B84A7299990A900133037 /* AppDelegate.swift */,
 				99CF2AA929B0172800B4973F /* BoardController+Extensions.swift */,
 				99CF2AAB29B0198D00B4973F /* ViewController+Extensions.swift */,
@@ -268,6 +271,7 @@
 			files = (
 				996B84B4299990AA00133037 /* LaunchScreen.storyboard in Resources */,
 				996B84B1299990AA00133037 /* Assets.xcassets in Resources */,
+				F4AB96372D7041D40025DB25 /* w-icon.png in Resources */,
 				996B84AF299990A900133037 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
