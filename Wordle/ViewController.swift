@@ -37,6 +37,8 @@ class ViewController: UIViewController {
               boardController.enter(string)
           }
       }
+      
+      keyboardController.didSelectString = didSelectString
     // END YOUR CODE HERE
   }
 }
